@@ -2,7 +2,7 @@
 A tiny browser console snippet that grabs the text of every `span.left-far` element on the page and copies it to your clipboard as a comma-separated list.
 
 # Use case
-I used this to extract titles from sections to complete my work.
+I used this to extract titles from sections of a website.
 
 ## Notes
 
